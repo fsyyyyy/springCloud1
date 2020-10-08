@@ -1,1 +1,3 @@
-dev -v001
+config:
+  info: dev -v001
+
